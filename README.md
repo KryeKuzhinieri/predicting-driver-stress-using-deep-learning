@@ -1,6 +1,13 @@
 # Predicting Driver Stress Using Deep Learning
 
-
+- [About The Project](#about-the-project)
+- [Getting Started](#getting-started)
+  * [Convert the dataset](#convert-the-dataset)
+  * [Get basic plots and info](#get-basic-plots-and-info)
+  * [Preprocessing](#preprocessing)
+  * [Feature Selection](#feature-selection)
+  * [Algorithms](#algorithms)
+- [License](#license)
 
 ## About the project
 This project is part of my masters thesis and aims to predict driver stress levels using Physionet's [SRAD](https://physionet.org/content/drivedb/1.0.0/) (drivedb) dataset with methods such as LSTMs, RNNs and CNNs. It is a work based predominantly on Healey's paper titled *"Detecting Stress During Real-World Driving Tasks Using Physiological Sensors"* which can be found [here](https://affect.media.mit.edu/pdfs/05.healey-picard.pdf).\
@@ -27,3 +34,6 @@ Lastly, this project aims to predict stress levels using various reduction techn
 
 ### Disclaimer
 Please bear in mind that some of the default values for the functions may not directly mean **best** values or parameters because I have been playing with them. However, for a more detailed description of the parameters, you are encouraged to read my paper by clicking [here]("").
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
