@@ -243,26 +243,9 @@ def calculate_features(functions_to_apply, column_names, downsample_frequency="1
     print(f"Data Saved in the {path}/{folder_name} directory.")
 
 
-# Healey data.
-# calculate_features(
-    # functions_to_apply,
-    # column_names,
-    # downsample_frequency="5T",
-    # folder_name = "final_healey"
-# )
-
-# Final Data
 # calculate_features(
     # functions_to_apply,
     # column_names,
     # downsample_frequency="10S",
     # folder_name = "final_data"
 # )
-
-# 2 second invervals
-calculate_features(
-    functions_to_apply,
-    column_names,
-    downsample_frequency="2S",
-    folder_name = "final_2_seconds"
-)
