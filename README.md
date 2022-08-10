@@ -33,7 +33,7 @@ Moreover, the data can be segmented into different intervals. The default value 
 Lastly, this project aims to predict stress levels using various reduction techniques with the aid of deep learning models such as LSTMs, CNN and RNNs. These techniques can be accessed in the `e_models.py` file.
 
 ### Disclaimer
-Please bear in mind that some of the default values for the functions may not directly mean **best** values or parameters because I have been playing with them. However, for a more detailed description of the parameters, you are encouraged to read my thesis by clicking [here](https://www.dropbox.com/s/dp3hm900j2x88j0/full_thesis_with_approvals.pdf?dl=0).
+Please bear in mind that some of the default values for the functions may not directly mean **best** values or parameters because I have been playing with them. However, for a more detailed description of the parameters, you are encouraged to read my thesis by clicking [here]().
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
