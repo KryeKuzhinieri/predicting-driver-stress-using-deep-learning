@@ -35,5 +35,15 @@ Lastly, this project aims to predict stress levels using various reduction techn
 ### Disclaimer
 Please bear in mind that some of the default values for the functions may not directly mean **best** values or parameters because I have been playing with them. However, for a more detailed description of the parameters, you are encouraged to read my thesis by clicking [here](https://www.dropbox.com/s/dp3hm900j2x88j0/full_thesis_with_approvals.pdf?dl=0).
 
+### Feature Selection Infographics
+Galvanic Skin Response Features
+![Screenshot](/img/gsr-features.png)
+
+Heart Rate Features
+![Screenshot](/img/hr-features.png)
+
+Resp Features
+![Screenshot](/img/resp-features.png)
+
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
